@@ -1,2 +1,5 @@
-# ws2223-robotiklabor_beginner_course
-Der Kurs zielt darauf ab, auf praktische Weise die Verwendung von Physical Computing- Plattformen wie Arduino und Rasperry PI in Verbindung mit Machine Learning-Frameworks zu vermitteln, die den Einsatz einer Reihe von vortrainierten Modellen künstlicher Intelligenz ermöglichen.
+# Grundkurs zur Verwendung von Physical Computing-Plattformen in Verbindung mit vortrainierten KI Modellen
+Der Kurs zielt darauf ab, auf praktische Weise die Verwendung von Physical Computing- Plattformen wie Arduino und Rasperry PI in Verbindung mit Machine Learning-Frameworks zu vermitteln, die den Einsatz einer Reihe von vortrainierten Modellen künstlicher Intelligenz ermöglichen. 
+Jede Vorlesung ist mit einem kurzen und prägnanten theoretischen Teil aufgebaut, in dem die Grundlagen des Physical Computing und der Mensch-Maschine-Interaktion erläutert werden. Ein besonderer Schwerpunkt liegt dabei auf Modellen der künstlichen Intelligenz in den Bereichen Gesichtserkennung (Gesichts- und Emotionserkennung), Körpererkennung (PoseNet-Modell) und Objekterkennung (YOLO). Im praktischen Teil werden Studierende mit diesen Modellen experimentieren und sie in Verbindung mit Hardware Plattformen wie Arduino und Raspberry Pi einsetzen.
+Zur Erlangung des Leistungsnachweises wird von Studierenden verlangt, konzeptionelle und praktische Arbeiten unter Verwendung von Technologien und Prinzipien aus dem Bereich der Robotik und künstlichen Intelligenz zu entwickeln.
+
